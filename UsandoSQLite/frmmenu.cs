@@ -117,7 +117,7 @@ namespace UsandoSQLite
 
         private void btn_users_Click(object sender, EventArgs e)
         {
-            // para ocultar a janela do formulario Muno - usamos o comando aseguir
+            // para ocultar a janela do formulario Menu - usamos o comando aseguir
             // this.Hide(); não é recomendado usar este metodo - aforma adquada seria 
             // o comando aseguir - usando threading 
             // importamos o name space -> using system.threading
